@@ -1,11 +1,9 @@
-  =>  Template Name    : PET SHOP - Pet Shop Website Template
+NAME: K.ARAVIND KUMAR
+COLLEGE:NANDHA COLLEGE OF TECHNOLOGY
+PROJECT:PET SHOP WEBSITE
+DESCRIPTION:
+     A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums. A Pets at Home in Bradford.
 
-  =>  Template Link    : https://htmlcodex.com/pet-shop-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+GUIDED BY:
+      TARINER BOOPATHI SIR
+      CONTACT:96985 48633
