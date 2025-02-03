@@ -2,7 +2,7 @@ NAME: K.ARAVIND KUMAR
 COLLEGE:NANDHA COLLEGE OF TECHNOLOGY
 PROJECT:PET SHOP WEBSITE
 DESCRIPTION:
-     A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums. A Pets at Home in Bradford.
+     A variety of animal supplies and pet accessories are also sold in our pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.
 
 GUIDED BY:
       TARINER BOOPATHI SIR
